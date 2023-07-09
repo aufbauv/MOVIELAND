@@ -3,7 +3,7 @@ import "./App.css";
 import SearchIcon from "./search.svg";
 import MovieCard from "./MovieCard";
 
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=7ffd8259";
+const API_URL = "https://www.omdbapi.com/?i=tt3896198&apikey=7ffd8259";
 
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -29,8 +29,8 @@ function App() {
   
   return (
     <div className="app">
-      {/* <h1 onClick={()=>window.location.reload(true)}> MovieLand</h1> */}
-       <h1><a href="http://localhost:3001">MovieLand</a></h1>
+      <h1 onClick={()=>window.location.reload(true)}> MovieLand</h1>
+       // <h1><a href="http://localhost:3001">MovieLand</a></h1>
 
       <div className="search">
         <input
