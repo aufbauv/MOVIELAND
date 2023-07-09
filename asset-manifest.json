@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RATED/static/css/main.334bdeb1.css",
+    "main.js": "/RATED/static/js/main.53675bb6.js",
+    "index.html": "/RATED/index.html",
+    "static/media/search.svg": "/RATED/static/media/search.bbb1a7899bb444e9f149635f099fcab5.svg",
+    "main.334bdeb1.css.map": "/RATED/static/css/main.334bdeb1.css.map",
+    "main.53675bb6.js.map": "/RATED/static/js/main.53675bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.53675bb6.js"
+  ]
+}
